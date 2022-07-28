@@ -43,4 +43,4 @@ proxies = {
 
 你可以在这个位置找到
 
-![image-20220728153124190](https://blog-faithererer.oss-cn-qingdao.aliyuncs.com/blog/typoraImg202207281531728.png)
+![image-20220728153124190](src/typoraImg202207281531728.png)
